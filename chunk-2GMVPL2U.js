@@ -1,0 +1,1 @@
+import{Ga as n,Ha as s,Ma as p,ra as o}from"./chunk-ICNGHAE4.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-projects"]],decls:2,vars:0,template:function(e,a){e&1&&(n(0,"h1"),p(1,"Projects"),s())},encapsulation:2})};export{c as ProjectsComponent};
